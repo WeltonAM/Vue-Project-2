@@ -1,24 +1,17 @@
-# montyhall
+### 🎁 Vue Monty Hall Challenge
 
-## Project setup
-```
-npm install
-```
+## 🚀 How to execute this project:
 
-### Compiles and hot-reloads for development
+Make sure to have all dependencies installed:
+```
+npm i
+```
+Now run it:
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Now have fun! 🥳
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 💻 See more:
+[Demonstrative video](https://www.linkedin.com/feed/update/urn:li:ugcPost:7017154484967489538/)
